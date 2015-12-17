@@ -1,2 +1,2 @@
-puts "hello from github"
-puts "hello from a branch"
+puts 'hello from github'
+puts 'hello from a branch'
